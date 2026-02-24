@@ -29,13 +29,6 @@ Hi, I'm Yuchan (YN). I love making artificial intelligence.
 
 </div>
 
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y3chnx)
-
-</div>
 
 ## 🛠️ Skills & Technologies
 
