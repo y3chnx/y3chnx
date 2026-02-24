@@ -44,7 +44,7 @@ Hi, I'm Yuchan (YN). I love making artificial intelligence.
 
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🎯 “Given enough eyeballs, all bugs are shallow.” – Linus Torvalds
 
 **Thank you for visiting my profile! 😊**
 
