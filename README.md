@@ -16,7 +16,7 @@ Hi, I'm Yuchan (YN). I love making artificial intelligence.
 
 <div align="left">
 
-- 🌱 I'm currently learning **I am currently learning Deep learning and Artificial Intelligence.**
+- 🌱 **I am currently learning Deep learning and Artificial Intelligence.**
 
 </div>
 
