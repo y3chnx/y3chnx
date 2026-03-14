@@ -4,7 +4,7 @@
 
 ### Love AI
 
-<img src="https://avatars.githubusercontent.com/u/165867967?v=4" alt="YN" width="150" height="150" style="border-radius: 50%;" />
+<img src="petpet.gif" alt="YN" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
