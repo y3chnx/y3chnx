@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="background.png" alt="Profile Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # Hi 👋, I'm YN
 
