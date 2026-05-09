@@ -43,10 +43,4 @@ Hi, I'm Yuchan (YN). I love making artificial intelligence.
 
 ---
 
-<div align="center">
-
-### 🎯 “Given enough eyeballs, all bugs are shallow.” – Linus Torvalds
-
-**Thank you for visiting my profile! 😊**
-
 </div>
