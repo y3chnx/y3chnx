@@ -3,7 +3,6 @@
 
 # Hi 👋, I'm YN
 
-### Love AI
 
 <img src="https://avatars.githubusercontent.com/u/165867967?s=400&u=4ff2bc77261650aac5d1950652546c9daf18574c&v=4)" alt="YN" width="150" height="150" style="border-radius: 50%;" />
 
@@ -11,13 +10,13 @@
 
 ## 🚀 About Me
 
-Hi, I'm Yuchan (YN). I love making artificial intelligence. 
+Hi, I'm Yuchan Lee (YN). 
 
 ## 📚 Learning & Knowledge
 
 <div align="left">
 
-- 🌱 **I am currently learning Deep learning and Artificial Intelligence.**
+- 🌱 **I am currently learning Artificial Intelligence.**
 
 </div>
 
@@ -36,6 +35,7 @@ Hi, I'm Yuchan (YN). I love making artificial intelligence.
 ### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge)
 
 ### 💻 AI/ML
 
