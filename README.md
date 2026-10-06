@@ -24,7 +24,7 @@ Hi, I'm Yuchan Lee (YN).
 
 <div align="left">
 
-- 📫 How to reach me **youchanleeyouchanlee@gmail.com**
+- 📫 How to reach me **y3lee@protonmail.com**
 - 👨‍💻 All of my projects are available at [https://github.com/y3chnx](https://github.com/y3chnx)
 
 </div>
